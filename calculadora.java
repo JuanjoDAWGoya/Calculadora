@@ -1,1 +1,1 @@
-calcular algo que decir   rama2
+calcular algo que decir   rama2 conflicto
