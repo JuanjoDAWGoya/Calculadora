@@ -1,1 +1,1 @@
-calcular algo que decir   rama2 conflicto
+calcular algo que decir   hacinedo cambios
